@@ -15,6 +15,7 @@ An implementation exists in OSX as of some time before 2013.
 
 Reviewer | Review Date | Version Reviewed | Review Notes/Summary | Link to Review
 ---------|-------------|------------------|----------------------|---------------
+Love Hörnquist Âstrand | 2008-11-24 | krb-wg -01 | proxy protection concerns | https://www.ietf.org/mail-archive/web/krb-wg/current/msg00925.html
 Greg Hudson | 2013-04-11 | -00 | conflicts between various drafts in implementations | https://www.ietf.org/mail-archive/web/kitten/current/msg03919.html
 Benjamin Kaduk | 2013-05-05 | -00 | editing errors | https://www.ietf.org/mail-archive/web/kitten/current/msg03981.html
 Benjamin Kaduk | 2013-08-06 | -00 | many small fixes | https://www.ietf.org/mail-archive/web/kitten/current/msg04212.html
